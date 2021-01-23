@@ -5,7 +5,7 @@
 body {
      font-family: 'Roboto Condensed', sans-serif;
      margin-bottom: 0px;
-     background-image: linear-gradient(rgba(109, 14, 218, 0.45), rgb(109, 14, 218, 0.45)), url(https://www.askrahularora.com/wp-content/uploads/2020/05/123456-scaled.jpg) ;
+     background-image: linear-gradient(rgba(109, 14, 218, 0.45), rgb(109, 14, 218, 0.45)), url(/img/backimg.jpg) ;
      background-color: lightgray;
      background-position: center center;
      background-repeat: no-repeat;
