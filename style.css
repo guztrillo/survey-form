@@ -91,5 +91,6 @@ input[type=checkbox] {
      }
      #container {
           width: 100%;
+          padding: 5%;
      }
 }
